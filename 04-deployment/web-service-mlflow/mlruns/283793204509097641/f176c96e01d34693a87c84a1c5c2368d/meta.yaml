@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/283793204509097641/f176c96e01d34693a87c84a1c5c2368d/artifacts
+end_time: 1752937825555
+entry_point_name: ''
+experiment_id: '283793204509097641'
+lifecycle_stage: active
+run_id: f176c96e01d34693a87c84a1c5c2368d
+run_name: salty-trout-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752937812139
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/283793204509097641/6b6019525cae463497c9f2a7942f81fb/artifacts
+end_time: 1753005259965
+entry_point_name: ''
+experiment_id: '283793204509097641'
+lifecycle_stage: active
+run_id: 6b6019525cae463497c9f2a7942f81fb
+run_name: aged-ray-24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753005249089
+status: 3
+tags: []
+user_id: ubuntu

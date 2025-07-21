@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/283793204509097641/ca77336cded9427f812dece5f4d9a721/artifacts
+end_time: 1753011914273
+entry_point_name: ''
+experiment_id: '283793204509097641'
+lifecycle_stage: active
+run_id: ca77336cded9427f812dece5f4d9a721
+run_name: legendary-trout-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753011905542
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/283793204509097641/af24044cb45b493db22fe78c5288fade/artifacts
+end_time: 1753011884404
+entry_point_name: ''
+experiment_id: '283793204509097641'
+lifecycle_stage: active
+run_id: af24044cb45b493db22fe78c5288fade
+run_name: upbeat-stag-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753011882911
+status: 4
+tags: []
+user_id: ubuntu
